@@ -1,2 +1,2 @@
 # zzzpoc
-https://www.baidu.com
+https://www.sogou.com
